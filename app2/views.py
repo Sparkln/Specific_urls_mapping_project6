@@ -5,4 +5,4 @@ from django.http import HttpResponse
 def first(request):
     return HttpResponse('<h1>Hello world......</h1>')
 def second(request):
-    return HttpResponse('<h1>I am become death, the destroyer of the world..........')
+    return HttpResponse('<h1>I am become death, the destroyer of the world..........</h1>')
